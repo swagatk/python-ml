@@ -1,8 +1,9 @@
-## Machine Learning with Python Sci-kit
+## Machine Learning with Python 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/swagatk/python-ml/blob/master/python-ml.ipynb)
    
-This contains machine learning programs using python and scikit-learn
+This contains machine learning programs using python, scikit-learn,
+     Tensorflow/Keras
 
 - K-NN algorithm
 - Linear and Nonlinear Regression
