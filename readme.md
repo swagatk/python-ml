@@ -17,6 +17,9 @@ This contains machine learning programs using python, scikit-learn,
 - Deep Learning with Keras
    - MNIST Hand-written Digit Recognition
    - MNIST Fashion Datasets
+- Two deep learning projects
+   - CIFAR 10 dataset
+   - Cats-Vs-Dogs Classification dataset
 
 ## CNN Visualization
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/swagatk/python-ml/blob/master/CNN_Visualization.ipynb)
